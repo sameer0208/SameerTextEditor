@@ -6,7 +6,7 @@ import Alert from './components/Alert';
 import Navbar from './components/Navbar';
 import TextForm from './components/TextForm';
 import { Route,Routes } from 'react-router-dom';
-let fname = prompt("Arey apna naam likho ispr: ");
+let fname = prompt("Please Enter Your Name here: ");
 function App() {
   const [mode,setMode] = useState('light');
   const [alert,setAlert] = useState(null);
