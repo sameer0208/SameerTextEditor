@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SameerTextEditor/static/css/main.5b58977c.css",
+    "main.js": "/SameerTextEditor/static/js/main.80400f75.js",
+    "static/js/787.28cb0dcd.chunk.js": "/SameerTextEditor/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/SameerTextEditor/index.html",
+    "main.5b58977c.css.map": "/SameerTextEditor/static/css/main.5b58977c.css.map",
+    "main.80400f75.js.map": "/SameerTextEditor/static/js/main.80400f75.js.map",
+    "787.28cb0dcd.chunk.js.map": "/SameerTextEditor/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b58977c.css",
+    "static/js/main.80400f75.js"
+  ]
+}
